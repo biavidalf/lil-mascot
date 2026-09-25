@@ -8,6 +8,14 @@ Instale a [versão mais recente](https://github.com/biavidalf/lil-mascot/release
 
 Leia o [guia de primeiros passos](GUIA-PRIMEIROS-PASSOS.md) para conhecer os recursos, instalar com segurança e enviar feedback.
 
+### Versão 0.6.0
+
+- Prioridades, filtros de data, novas ordenações e agrupamento dos alvos futuros.
+- Reordenação de microquests e troca do passo atual durante uma sessão.
+- Planejamento e Retrospectivas reunidos em **Semana**, com histórico semanal e mensal.
+- Configurações reorganizadas, nomes separados para a pessoa e o mascote e novos tamanhos Mini e Hub menor.
+- Ajustes no temporizador compacto, minimização nativa e proteção do tamanho da interface.
+
 ## Aviso do Windows
 
 O instalador ainda não tem assinatura digital. Por isso, o Microsoft Defender SmartScreen pode mostrar **“O Windows protegeu o computador”**. Confira se o download veio desta página oficial; o guia explica como verificar a origem antes de continuar.

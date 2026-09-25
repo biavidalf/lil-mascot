@@ -24,14 +24,14 @@ Você pode deixar o alvo para depois sem perder o tempo já dedicado. Os detalhe
 
 | Onde | Para que serve |
 | --- | --- |
-| **Alvos** | Registrar tarefas, escolher uma para focar, pesquisar, filtrar e consultar as concluídas. O nível de energia ajuda o mascote a sugerir um próximo passo. |
+| **Alvos** | Registrar tarefas, definir prioridade, escolher uma para focar, pesquisar, filtrar, ordenar e consultar as concluídas. Alvos futuros podem ficar recolhidos. O nível de energia ajuda o mascote a sugerir um próximo passo. |
 | **Baú** | Descarregar várias ideias sem precisar organizá-las na hora. Depois, transformar uma ideia em alvo, campanha ou anotação. |
-| **Semana** | Ver os sete dias, arrastar alvos para outro dia, abrir seus detalhes e mostrar ou ocultar os concluídos. |
-| **Retrospectiva** | Ver água, alvos concluídos e tempo de foco; registrar comentários e coisas boas do dia; revisar esses momentos junto da retrospectiva semanal. |
+| **Semana → Planejamento** | Planejar alvos por dia, arrastá-los entre os dias, rever uma data e retomar o que ficou para trás. |
+| **Semana → Retrospectivas** | Ver água, alvos concluídos e tempo de foco no dia em que aconteceram; registrar comentários e consultar o histórico semanal ou mensal. |
 | **Projetos** | Consultar campanhas e guardar o contexto de cada uma. |
-| **Configurações** | Dar um nome ao mascote, mudar seu tamanho, escolher a duração padrão, ajustar pausas de movimento e cadastrar frases motivacionais próprias. |
+| **Engrenagem de Configurações** | Informar seu nome e o do mascote, mudar o tamanho do balão e do Hub, escolher a duração padrão, ajustar lembretes e pausas e cadastrar frases motivacionais próprias. |
 
-No painel **Alvos**, há também um controle para registrar água e pausas de movimento. Você pode usar só as partes que lhe forem úteis.
+No painel **Alvos**, há também um controle para registrar água e pausas de movimento. Nos detalhes de um alvo, você pode criar microquests, mudar a ordem delas por arraste e avançar para o próximo passo durante uma sessão. Você pode usar só as partes que lhe forem úteis.
 
 ## Seus dados e as atualizações
 
