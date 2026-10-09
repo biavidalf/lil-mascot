@@ -8,13 +8,15 @@ Instale a [versão mais recente](https://github.com/biavidalf/lil-mascot/release
 
 Leia o [guia de primeiros passos](GUIA-PRIMEIROS-PASSOS.md) para conhecer os recursos, instalar com segurança e enviar feedback.
 
-### Versão 0.6.0
+### Versão 0.7.0
 
-- Prioridades, filtros de data, novas ordenações e agrupamento dos alvos futuros.
-- Reordenação de microquests e troca do passo atual durante uma sessão.
-- Planejamento e Retrospectivas reunidos em **Semana**, com histórico semanal e mensal.
-- Configurações reorganizadas, nomes separados para a pessoa e o mascote e novos tamanhos Mini e Hub menor.
-- Ajustes no temporizador compacto, minimização nativa e proteção do tamanho da interface.
+- Cinco aparências: Arqueiro, Guerreiro, Mago, Fada e Feiticeira, cada uma com arte e cores próprias.
+- Alternância entre modo claro e escuro em **Configurações → Mascote → Temas**.
+- Personalização por tema de cores, fonte dos títulos e tom das mensagens.
+- Novas poses do mascote durante o foco e a celebração, com respeito à preferência por movimento reduzido.
+- Tema e ajustes incluídos no backup da jornada, mantendo a leitura de backups antigos.
+
+Veja as [notas da versão 0.7.0](https://github.com/biavidalf/lil-mascot/releases/tag/v0.7.0) para detalhes de instalação e atualização.
 
 ## Aviso do Windows
 
