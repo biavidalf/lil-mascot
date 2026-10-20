@@ -8,15 +8,15 @@ Instale a [versão mais recente](https://github.com/biavidalf/lil-mascot/release
 
 Leia o [guia de primeiros passos](GUIA-PRIMEIROS-PASSOS.md) para conhecer os recursos, instalar com segurança e enviar feedback.
 
-### Versão 0.7.0
+### Versão 0.8.0
 
-- Cinco aparências: Arqueiro, Guerreiro, Mago, Fada e Feiticeira, cada uma com arte e cores próprias.
-- Alternância entre modo claro e escuro em **Configurações → Mascote → Temas**.
-- Personalização por tema de cores, fonte dos títulos e tom das mensagens.
-- Novas poses do mascote durante o foco e a celebração, com respeito à preferência por movimento reduzido.
-- Tema e ajustes incluídos no backup da jornada, mantendo a leitura de backups antigos.
+- Alvos com dia e hora, repetição, lembrete no balão do mascote e criação rápida com ícones enquanto você digita.
+- Visão **Dia** com grade de horários, seletor rápido de dia e hora e encaixe ao arrastar na Semana.
+- Projetos com metas e data, ideias de alvo, **Onde parei** automático, calendário de avanço, plano por semana e mês e anotações.
+- Metas da semana no topo de Alvos e da Semana, com progresso pelos alvos, por contagem ou à mão.
+- Diária em 30 segundos e semanal em cartões, terminando no cartão da semana, com confete.
 
-Veja as [notas da versão 0.7.0](https://github.com/biavidalf/lil-mascot/releases/tag/v0.7.0) para detalhes de instalação e atualização.
+Veja as [notas da versão 0.8.0](https://github.com/biavidalf/lil-mascot/releases/tag/v0.8.0) para detalhes de instalação e atualização.
 
 ## Aviso do Windows
 
