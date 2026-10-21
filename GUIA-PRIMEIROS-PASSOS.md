@@ -1,12 +1,23 @@
 # Primeiros passos com o Lil Mascot
 
-O Lil Mascot é um companheiro de desktop para tirar uma tarefa da cabeça, escolher um próximo passo e começar uma sessão curta de foco. A versão 0.8.0 funciona em **Windows 64 bits**.
+O Lil Mascot é um companheiro de desktop para tirar uma tarefa da cabeça, escolher um próximo passo e começar uma sessão curta de foco. A versão 0.8.1 funciona em **Windows 64 bits**.
 
 ## Instalar e abrir
 
 1. Na [página da versão mais recente](https://github.com/biavidalf/lil-mascot/releases/latest), baixe o arquivo que termina em **`Setup.exe`**. Use esse instalador para receber as próximas atualizações automaticamente.
 2. Abra o arquivo baixado. O instalador ainda não tem assinatura digital; o Windows pode mostrar **“O Windows protegeu o computador”**. Confirme que o arquivo veio do repositório `biavidalf/lil-mascot`. Para continuar, clique em **Mais informações** e depois em **Executar assim mesmo**. Se preferir, interrompa a instalação e avise quem lhe enviou o convite.
 3. Abra **Lil Mascot** pelo Menu Iniciar. Clique no mascote ou no balão para abrir o painel. Você pode arrastar o mascote para outro lugar da tela.
+
+## O mascote ensina na primeira vez
+
+Na primeira abertura, o Lil se apresenta e conduz um tutorial curto, feito com balões em cima do próprio app. Ele só avança quando você faz a ação pedida, e o botão certo pulsa para ajudar a encontrar:
+
+1. **Mascote:** mostra que dá para arrastá-lo e pede para clicar nele e abrir o painel.
+2. **Baú:** escreva o que está na cabeça, um pensamento por linha. Cada **Enter** separa um item, e uma prévia mostra quantos serão criados.
+3. **Alvos:** crie um alvo, escreva uma microquest bem fácil, escolha a empolgação e a motivação, ajuste a energia, coloque o alvo na mira e comece com 5 minutos.
+4. **Do seu jeito:** se quiser, siga para Configurações e veja onde mudar o tema, os lembretes e as pausas.
+
+**Semana** e **Projetos** mostram um resumo na primeira vez que você entra nelas. Cada tutorial termina com uma dica curta e a fonte da pesquisa. **Pular** ou **Esc** fecham o tutorial sem perder o que você escreveu. Para começar ou rever qualquer tutorial depois, use o botão **?** no topo do painel; ali também dá para desligar os tutoriais automáticos.
 
 Se ele desaparecer, procure o ícone do Lil Mascot na bandeja do Windows, perto do relógio. Clique em **Mostrar**. **Ocultar** deixa o app na bandeja; **Sair** encerra o app.
 
@@ -23,12 +34,14 @@ Você pode deixar o alvo para depois sem perder o tempo já dedicado. Os detalhe
 
 | Onde | Para que serve |
 | --- | --- |
-| **Alvos** | Registrar tarefas, definir prioridade, dia e hora, repetição e lembrete, escolher uma para focar, pesquisar, filtrar, ordenar e consultar as concluídas (as mais recentes primeiro). Alvos futuros podem ficar recolhidos. O nível de energia ajuda o mascote a sugerir um próximo passo. As metas da semana aparecem no topo. |
+| **Alvos** | Registrar tarefas, definir prioridade, dia e hora, repetição e lembrete (com antecedência de 5 min, 10 min, 1 dia ou personalizada), escolher uma para focar, pesquisar, filtrar, ordenar e consultar as concluídas (as mais recentes primeiro). Alvos futuros podem ficar recolhidos. O nível de energia ajuda o mascote a sugerir um próximo passo. As metas da semana aparecem no topo. |
 | **Baú** | Descarregar várias ideias sem precisar organizá-las na hora. Depois, transformar uma ideia em alvo, projeto ou anotação. |
 | **Semana → Planejamento** | Planejar alvos por dia e hora com o botão **Planejar**, arrastá-los para encaixar antes ou depois de outro, usar a visão **Dia** com grade de horários e retomar o que ficou para trás. |
 | **Semana → Retrospectivas** | Fazer a diária em 30 segundos (energia de 1 a 5 e o que foi bom), fechar a semana num passo a passo em cartões e consultar água, alvos e foco por semana ou mês. |
 | **Projetos** | Criar projetos com metas e data, guardar ideias de alvo, ver o avanço num calendário, planejar por semana ou mês e anotar livremente. O campo **Onde parei** se atualiza sozinho. |
-| **Engrenagem de Configurações** | Informar seu nome e o do mascote, escolher tema e aparência, mudar o tamanho do balão e do Hub, definir a duração padrão e ajustar lembretes e pausas. |
+| **Engrenagem de Configurações** | Informar seu nome e o do mascote, escolher tema e aparência, mudar o tamanho do balão e do Hub, definir a duração padrão, ajustar lembretes e pausas e, em **Dados**, fazer o backup da jornada. |
+
+Quando chega um lembrete, **Colocar na mira** deixa o alvo pronto para começar na hora certa; **+5** e **+10** avisam de novo depois.
 
 No painel **Alvos**, há também um controle para registrar água e pausas de movimento. Nos detalhes de um alvo, você pode criar microquests, mudar a ordem delas por arraste e avançar para o próximo passo durante uma sessão. Você pode usar só as partes que lhe forem úteis.
 
@@ -59,7 +72,7 @@ Na landing page do Lil Mascot, abra o mural pelo link **Ver todos os pedidos** n
 
 Não é preciso criar conta para usar o aplicativo. Tarefas, ideias, projetos, metas, histórico e preferências ficam no seu computador. A lista de espera do site é separada desses dados. O app instalado pelo `Setup.exe` verifica novas versões ao abrir e a cada hora; quando termina de baixar uma atualização, oferece reiniciar agora ou depois. Atualizar preserva a jornada local.
 
-Para guardar uma cópia fora do app ou trocar de computador, abra o painel, clique no ícone **Backup da jornada** perto de **Minimizar** e escolha **Exportar jornada**. Guarde o arquivo JSON em um lugar seu. Esse arquivo contém seus alvos e anotações pessoais.
+Para guardar uma cópia fora do app ou trocar de computador, abra o painel, vá em **engrenagem → Dados**, clique em **Abrir backup** e escolha **Exportar jornada**. Guarde o arquivo JSON em um lugar seu. Esse arquivo contém seus alvos e anotações pessoais.
 
 ## Como contar sua experiência
 
